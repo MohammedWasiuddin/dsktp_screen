@@ -11,3 +11,80 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cancel {
+  position: absolute;
+  left: 0;
+  margin-left: 20px;
+}
+
+.continue {
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+  color: black;
+  background-color: rgb(186, 186, 186);
+}
+
+.back {
+  position: absolute;
+  left: 0;
+  margin-left: 20px;
+  outline-color: rgb(16, 105, 161);
+}
+
+.submit {
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(16, 105, 161);
+}
+
+p {
+  text-align: left;
+  margin-left: 3%;
+}
+
+/* .header{
+  text-align: left;
+  margin-left: 3%;
+} */
+.year {
+  margin-left: 3%;
+}
+
+.id {
+  text-align: center;
+}
+
+.plan {
+  margin-right: 3%;
+}
+
+.name {
+  text-align: left;
+  margin-left: 3%;
+}
+
+.enrollees {
+  text-align: left;
+  margin-left: 3%;
+}
+
+.container table {
+  margin-left: -3%;
+  margin-right: 3%;
+}
+
+.text {
+  margin-left: 3%;
+}
+
+.textarea {
+  margin-left: 3%;
+}
+
+.enrollmentdetailslink{
+  margin-left: 3%;
+}
